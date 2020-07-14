@@ -453,3 +453,9 @@ C:\Users\Csystems\Documents\GitHub\Gerenciamento-de-estoque\Tcc-Senai\TCC-Senai\
 C:\Users\Csystems\Documents\GitHub\Gerenciamento-de-estoque\Tcc-Senai\TCC-Senai\obj\Debug\TCC-Senai.csproj.CopyComplete
 C:\Users\Csystems\Documents\GitHub\Gerenciamento-de-estoque\Tcc-Senai\TCC-Senai\obj\Debug\TCC-Senai.dll
 C:\Users\Csystems\Documents\GitHub\Gerenciamento-de-estoque\Tcc-Senai\TCC-Senai\obj\Debug\TCC-Senai.pdb
+C:\Users\Csystems\Documents\GitHub\Gerenciamento-de-estoque\Tcc-Senai\TCC-Senai\bin\MvcReportViewer.dll
+C:\Users\Csystems\Documents\GitHub\Gerenciamento-de-estoque\Tcc-Senai\TCC-Senai\bin\PagedList.dll
+C:\Users\Csystems\Documents\GitHub\Gerenciamento-de-estoque\Tcc-Senai\TCC-Senai\bin\PagedList.Mvc.dll
+C:\Users\Csystems\Documents\GitHub\Gerenciamento-de-estoque\Tcc-Senai\TCC-Senai\bin\Rotativa.dll
+C:\Users\Csystems\Documents\GitHub\Gerenciamento-de-estoque\Tcc-Senai\TCC-Senai\bin\PagedList.xml
+C:\Users\Csystems\Documents\GitHub\Gerenciamento-de-estoque\Tcc-Senai\TCC-Senai\bin\PagedList.Mvc.xml
