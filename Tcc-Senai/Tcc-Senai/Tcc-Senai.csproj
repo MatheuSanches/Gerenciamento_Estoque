@@ -146,6 +146,7 @@
     <Compile Include="Controllers\RelatorioController.cs" />
     <Compile Include="Controllers\ShippingDeliveriesController.cs" />
     <Compile Include="Controllers\StocksController.cs" />
+    <Compile Include="Controllers\testeController.cs" />
     <Compile Include="Controllers\UsersController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
@@ -353,6 +354,11 @@
     <Content Include="Views\Users\Edit.cshtml" />
     <Content Include="Views\Users\Index.cshtml" />
     <Content Include="Views\Home\Login.cshtml" />
+    <Content Include="Views\teste\Create.cshtml" />
+    <Content Include="Views\teste\Delete.cshtml" />
+    <Content Include="Views\teste\Details.cshtml" />
+    <Content Include="Views\teste\Edit.cshtml" />
+    <Content Include="Views\teste\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

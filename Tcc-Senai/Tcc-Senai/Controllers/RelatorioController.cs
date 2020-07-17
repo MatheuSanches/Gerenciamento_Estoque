@@ -9,9 +9,9 @@ namespace TCC_Senai.Controllers
     public class RelatorioController : Controller
     {
         // GET: Relatorio
-        public ActionResult Index()
+        private VendasDbContext db = new VendasDbContext();
+        public ActionResult RelatorioStock(int? pagina, Boolean? pdf)
         {
-            return View();
+            var listaStock = db.Stock.OrderBy(c => c.ProductId).ToList();
         }
-    }
 }
