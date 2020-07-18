@@ -1,0 +1,2 @@
+D:\TCC\Gerenciamento-de-estoque\Rotativa\obj\Debug\Rotativa.csprojAssemblyReference.cache
+D:\TCC\Gerenciamento-de-estoque\Rotativa\obj\Debug\Rotativa.csproj.CoreCompileInputs.cache

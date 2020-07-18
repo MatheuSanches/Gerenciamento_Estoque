@@ -1,0 +1,39 @@
+﻿@model List<TCC_Senai.Models.Stock>
+@{
+    ViewBag.Title = "RelatorioStock";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title></title>
+    @Styles.Render("~/Content")<!--Definir um CSS se necessário-->
+</head>
+<body>
+    <div class="col-md-12 text-center">
+        <h3>Stock</h3>
+    </div>
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Code</th>
+                <th>Name</th>
+                <th>TotalAmmount</th>
+                <th>AvailableAmmount</th>
+            </tr>
+        </thead>
+        @{ 
+            foreach(var st in Model) 
+            {
+                <tr>
+                    <td>@st.ProductId</td>
+                    <td>@st.Product.Name</td>
+                    <td>@st.TotalAmmount</td>
+                    <td>@st.AvailableAmmount</td>
+                </tr>
+            }
+        }
+    </table>
+</body>
+</html>
